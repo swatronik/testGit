@@ -1,0 +1,7 @@
+<suite name="PriceSuite">
+    <test name="Test">
+        <classes>
+            <class name="priceticket.MyClassTest"/>
+        </classes>
+    </test>
+</suite>

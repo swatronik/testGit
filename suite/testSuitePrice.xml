@@ -1,0 +1,13 @@
+<suite name="PriceSuite">
+    <test name="Test">
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <exclude name="slow"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="priceticket.MyClassTest"/>
+        </classes>
+    </test>
+</suite>
